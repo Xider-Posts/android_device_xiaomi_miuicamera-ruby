@@ -2,9 +2,9 @@
 
 # Variables
 PART_DIR="./cam/"
-PART_PREFIX="miuicamera-rubyx"
-OUTPUT_FILE="miuicamera-rubyx.zip"
-OUTPUT_DIR="../../../vendor/xiaomi/miuicamera-rubyx/proprietary/system_ext/priv-app/MiuiCamera"
+PART_PREFIX="miuicamera-ruby"
+OUTPUT_FILE="miuicamera-ruby.zip"
+OUTPUT_DIR="../../../vendor/xiaomi/miuicamera-ruby/proprietary/system_ext/priv-app/MiuiCamera"
 
 # Check if all parts exist
 for i in {1..4}; do
